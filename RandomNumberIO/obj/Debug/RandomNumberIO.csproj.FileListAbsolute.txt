@@ -1,0 +1,12 @@
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\bin\Debug\RandomNumberIO.exe.config
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\bin\Debug\RandomNumberIO.exe
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\bin\Debug\RandomNumberIO.pdb
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.csprojResolveAssemblyReference.cache
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.RandomNumberIOForm.resources
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.Properties.Resources.resources
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.csproj.GenerateResource.Cache
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.exe
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.pdb
+C:\Users\mikae\Desktop\CentralCC\C#\RandomNumberIO\RandomNumberIO\bin\Debug\RandomNumberIO.exe.config
+C:\Users\mikae\Desktop\CentralCC\C#\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.exe
+C:\Users\mikae\Desktop\CentralCC\C#\RandomNumberIO\RandomNumberIO\obj\Debug\RandomNumberIO.pdb

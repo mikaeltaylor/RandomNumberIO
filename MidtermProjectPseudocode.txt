@@ -1,0 +1,18 @@
+on load form
+	initialize the form
+	accept user input for quantity
+on keypress inside of user input textbox
+	allow numerical keypresses
+	allow control keypresses
+	display error messagebox if user presses any other key
+on clicking save
+	Prompt user for file name to save to
+	generate random numbers in the quantity specified
+	write the random numbers into the file
+	save the file
+on clicking open file
+	prompt user for file name to open
+	open the file
+	display contents of file in listbox
+on clicking clear
+	clear the listbox
